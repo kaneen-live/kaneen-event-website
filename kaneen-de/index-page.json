@@ -8,7 +8,12 @@
       "timeFrom": "8:00",
       "timeTo": " 12:30",
       "description": "Germany SRI KAMADCHI AMPAL THEER26",
-      "videoList": [{ "youtubeVideoID": "Tk-2GE9SrqI" }, { "youtubeVideoID": "" }]
+      "videoList": [
+        { "youtubeVideoID": "Tk-2GE9SrqI" },
+        {
+          "youtubeVideoID": "https://cd198.anystream.uk:9092/kaneen/thailive/playlist.m3u8"
+        }
+      ]
     },
     
     {
